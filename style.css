@@ -9,7 +9,8 @@ body {
 .header {
   height: 114px;
   background-color: #27c3ff;
-  padding-top: 20px;
+  padding-top: 19px;
+  
 }
 
 .header-line {
@@ -26,7 +27,7 @@ body {
   color: black;
   font-weight: 400;
   font-size: 18px;
-  margin-right: 35px;
+  margin-right: 34px;
   text-decoration: none;
 
   border-bottom: 0.5px solid rgba(0, 0, 0, 0.5);
@@ -42,10 +43,10 @@ nav-item:active {
   background-color: #000000;
   color: #ffffff;
   text-decoration: none;
-  padding-top: 3px;
+  padding-top: 1px;
   padding-left: 16px;
-  padding-right: 16px;
-  padding-bottom: 4px;
+  padding-right: 17px;
+  padding-bottom: 1px;
   font-size: 18px;
   font-weight: 700;
   line-height: 17.77px;
