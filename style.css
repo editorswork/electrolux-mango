@@ -7,15 +7,13 @@ body {
   font-family: "PT Sans", sans-serif;
   width: 1000px;
   height: 1006px;
- 
-}
+ }
 
 .header {
   height: 114px;
   background-color: #27c3ff;
   padding-top: 20px;
-  
-}
+  }
 
 .header-line {
   display: flex;
@@ -28,7 +26,7 @@ body {
 }
 
 .nav-item {
-  color: black;
+  color: #000000;
   font-weight: 400;
   font-size: 18px;
   margin-right: 34px;
@@ -81,13 +79,10 @@ nav-item:active {
   width: 389px;
   height: 26px;
   line-height: 116.99%;
-  
- 
-}
+  }
 
 .main-subtitle {
   font-family: "Noto Sans", sans-serif;
-
   font-weight: 900;
   font-size: 131px;
   line-height: 113px;
@@ -98,7 +93,7 @@ nav-item:active {
 }
 
 .main-lead {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-weight: 400;
   font-size: 36px;
   line-height: 105%;
@@ -124,24 +119,19 @@ nav-item:active {
   margin-left: 50px;
 }
 
-
 .footer_nav {
   display: flex;
   flex-wrap: wrap;
-  
-
-}
+  }
 
 .footer_menu-link {
+  font-family: "PT Sans";
   color: #050505;
   text-decoration: none;
   list-style-type: none;
   font-size: 21px;
   font-weight: 400;
-  font-family: "PT Sans";
-  
-  
-}
+  }
 
 .footer_menu-link:hover,
 footer_menu-link:focus,
@@ -151,5 +141,4 @@ footer_menu-link:active {
 
 li {
   list-style-type: none;
-    
-}
+  }
